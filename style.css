@@ -357,17 +357,17 @@ section {
         --big-font: 2.8rem;
         --h2-font: 2rem;
     }
+	.navlist{
+   	display none;
+	}
 }
 
 @media (max-width: 440px) {
+	.navlist{
+   	display none;
+	}
     .inicio {
         height: 110vh;
         gap: 0.1rem;
     }
-}
-
-.navlist{
-    
-}
-
-  
+} 
