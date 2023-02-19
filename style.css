@@ -358,13 +358,13 @@ section {
         --h2-font: 2rem;
     }
 	.navlist{
-   	display none;
+   	display: none;
 	}
 }
 
 @media (max-width: 440px) {
 	.navlist{
-   	display none;
+   	display: none;
 	}
     .inicio {
         height: 110vh;
